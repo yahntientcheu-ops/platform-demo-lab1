@@ -1,14 +1,14 @@
 # Default owner
-* @GitFabien
+* @yahntientcheu-ops
 
 # Platform configuration
-/.github/ @GitFabien
+/.github/ @yahntientcheu-ops
 
 # Application code
-/src/ @GitFabien
+/src/ @yahntientcheu-ops
 
 # Tests
-/test/ @GitFabien
+/test/ @yahntientcheu-ops
 
 # Deployment configuration
-/deploy/ @GitFabien
+/deploy/ @yahntientcheu-ops
